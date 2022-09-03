@@ -1,7 +1,3 @@
-# Toko Sayur 22
-
-
-
 ##Fitur
 - Login
 - Register
@@ -23,8 +19,6 @@ password: qwerty
 - Customer:
 username: agungtr
 password: qwerty
-
-password rar : gudangilkom
 
 user : admin
 pass : admin
