@@ -1,5 +1,4 @@
-============================ Belum Selesai Uploadnya ==========================
-
+Moon maap kalo ada file yg kelupaan upload
 ##Fitur
 - Login
 - Register
